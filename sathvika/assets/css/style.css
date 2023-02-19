@@ -1,0 +1,25 @@
+.navbar-brand{
+    color: white !important;
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-nav {
+    color: white !important;
+
+}
+.fa-bars{
+    color: white !important;
+    font-size: 20px;
+}
+hr{
+    color: black;
+}
+ .active{
+     border-bottom: 2px solid #ffffff !important;
+
+ }
+ .input-group{
+      display:inline-block;
+      margin: 0 auto;
+ }
